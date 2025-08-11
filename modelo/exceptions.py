@@ -1,0 +1,4 @@
+class PosOcupadaException(Exception):
+    pass
+
+    
